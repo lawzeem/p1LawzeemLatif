@@ -5,7 +5,7 @@
 
 #### All code and relevant files are in the p1LawzeemLatif folder
 
-This porject was built on processing.
+This project was built on processing.
 To run the code, go to the p1LawzeemLatif folder and run p1LawzeemLatif.pde.
 You will need processing installed.
 Libraries used include controlP5 and minim.
